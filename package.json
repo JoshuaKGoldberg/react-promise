@@ -1,5 +1,5 @@
 {
-  "name": "react-promise",
+  "name": "react-promise-sway-fork",
   "version": "2.0.3",
   "description": "a react.js component for declarative way of handling promises",
   "main": "./dist/react-promise.cjs.js",
